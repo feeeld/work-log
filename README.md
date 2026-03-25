@@ -5,3 +5,4 @@
 2026-03-19: chore: git ignore, 앱빌드 설정, dm 검색창 문구 변경
 2026-03-20: fix: ios 빌드번호 추가, 디자인 변경사항 적용
 2026-03-21: add: ios 빌드 커맨드 추가
+2026-03-25: feat: For You 페이지 대개혁 — pill 탭 필터, My Tasks, MAKi 요약 카드
