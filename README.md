@@ -10,3 +10,4 @@
 2026-03-27: feat: ios multi cpu 빌드 + App Store 릴리스
 2026-03-28: feat: onboarding UX overhaul + 힌트칩 전면 개편 + light mode
 2026-04-04: feat: chat 768px max-width + CallEndedCard 컴팩트 리디자인
+2026-04-16: feat: GitHub 연동 Phase 1~4 + 허브콜 외부 초대 링크
