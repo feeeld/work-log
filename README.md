@@ -12,3 +12,4 @@
 2026-04-04: feat: chat 768px max-width + CallEndedCard 컴팩트 리디자인
 2026-04-16: feat: GitHub 연동 Phase 1~4 + 허브콜 외부 초대 링크
 2026-04-17: feat: UX/UI 개선 브랜치 시작 + expo-glass-effect 추가
+2026-04-18: feat: apps/www 라이트모드/파비콘/보안헤더 수정, Vercel Git 연결 복구, 블로그 GNB 분석
